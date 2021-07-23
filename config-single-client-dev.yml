@@ -1,2 +1,7 @@
-spring:
-    test: aaaaaa
+data:
+    env: localhost-config-demo
+    user:
+        username: demo
+        password: demo
+
+    
